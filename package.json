@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "reactavancado-api",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -25,7 +25,7 @@
     "pg": "8.5.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Breno Luiz"
   },
   "strapi": {
     "uuid": "d7648b50-7e84-4543-b3f2-fa4f47fcd6f3"
