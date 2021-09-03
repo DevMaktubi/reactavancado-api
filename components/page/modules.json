@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_modules",
+  "info": {
+    "name": "modules",
+    "icon": "newspaper"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "default": "Insira um título"
+    },
+    "subtitle": {
+      "type": "string",
+      "required": true,
+      "default": "Insira um subtitulo"
+    },
+    "description": {
+      "type": "richtext",
+      "default": "Insira uma descrição",
+      "required": true
+    }
+  }
+}
